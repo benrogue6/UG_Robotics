@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="combination" pkg="maker" type="control.py"  output="screen"></node>
+
+
+</launch>
